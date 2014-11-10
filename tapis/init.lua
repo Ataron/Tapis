@@ -1,7 +1,7 @@
 -- Mod_Tapis
 -- -= Lua Minetest Steinheim =-
--- Mod créer par Ataron 
--- Licence : Libre de droits
+-- Mod cree par Ataron 
+-- License : Libre de droits
 
 --==============--
 -- REGISTER NODE --
